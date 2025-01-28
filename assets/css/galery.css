@@ -13,16 +13,16 @@
 /*Cambia el tipo de letra del titulo a Oswald*/
 /*Cambia el tamaño de la letra del titulo a 36px*/
 .banner__title{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    font-size: 18px;
+    font-family: "Oswald";
+    font-size: 36px;
 }
 /*Cambia el tipo de letra del titulo de la galeria a Oswald*/
 /*Cambia el color de la letra del titulo de la galeria*/
 /*Cambia el tamaño de la letra del titulo de la galeria a 24px*/
 .galery__issue{
-    font-family: "Sans Serif", Arial, Sans-Serif;
+    font-family: "Oswald";
     color: black;
-    font-size: 18px;
+    font-size: 24px
 }
 /*Cambia el tipo de letra del titulo de la galeria a Montserrat*/
 /*Cambia el color de la letra del titulo de la galeria*/
@@ -66,7 +66,7 @@
 /*Cambia el color de la letra del pie de pagina*/
 /*Cambia el tamaño de la letra del pie de pagina a 30px*/
 .paragraph__text{
-    font-family: "Sans Serif", Arial, Sans-Serif;
+    font-family: "Montserrat";
     color: white;
-    font-size: 18px;
+    font-size: 30px
 }
