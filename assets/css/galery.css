@@ -4,7 +4,7 @@
 }
 /*Cambia el color de fondo del encabezado*/
 .header__banner{
-    background-color: black;
+    background-color: rgb(255, 9, 9);
 }
 /*Cambia el color de la letra del titulo*/
 .galery__link{
@@ -28,7 +28,7 @@
 /*Cambia el color de la letra del titulo de la galeria*/
 /*Cambia el tamaño de la letra del titulo de la galeria*/
 .galery__figure{
-    background-color: white;
+    background-color: rgb(255, 0, 0);
 }
 /*Cambia las dimensiones de las fotos de la galeria*/
 /*imagen1*/
@@ -59,7 +59,7 @@
 /*Cambiar el de fondo del pie de pagina*/
 /*Cambia la alineacion del texto a al centro*/
 .footer{
-    background-color: black;
+    background-color: rgb(255, 0, 0);
     text-align: right;
 }
 /*Cambia el tipo de letra del pie de pagina a Montserrat*/
