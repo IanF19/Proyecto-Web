@@ -7,3 +7,8 @@ aparezcan tal cual en el "index.html" y "galery_blog.html", si hay algun cambio 
 entonces se debera cambiar el nombre como aparecen en los archivos HTML.
 
 De esta forma funcionaran los estilos y la plantilla de la página web se vera con mejor diseño.
+
+## Archivo .gitignore
+
+El archivo .gitignore omitira el contenido de la carpeta assets/img
+Es por esto que en GitHub no se ve e archivo pero al clonarlo estará ahí.
